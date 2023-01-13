@@ -1,4 +1,4 @@
-/* universal selector */
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -20,11 +20,11 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* color design for logo */
+/* Color design for logo */
 .seo {
     color: #d9dcd6;
 }
-/* header navigation bar */
+/* Controls the header navigation bar */
 .nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/* main image of office workers */
+/* Selector for the main image of office workers */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,13 +67,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* cards containing main images and articles  */
+/* Controls section class of the cards containing main images and articles  */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* content card on the right side of page */
+/* Controls the content card on the right side of page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +100,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Controls article class of the cards containing main images and articles  */
 .box {
     margin-bottom: 20px;
     padding: 50px;

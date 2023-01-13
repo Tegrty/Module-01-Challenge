@@ -14,8 +14,8 @@ This project is an HTML/CSS refactor for the horiseon marketing website to optim
 
 ## Links
 
-* [Deployed Webpage](tegrty.github.io/horiseon-code-refactor)
-* [Github Repository](github.com/tegrty/horiseon-code-refactor)
+* [Deployed Webpage](https://tegrty.github.io/horiseon-code-refactor/)
+* [Github Repository](https://github.com/Tegrty/horiseon-code-refactor)
 
 ![Getting started](./assets/images/horiseon-screenshot.png)
 
